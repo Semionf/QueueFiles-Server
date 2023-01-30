@@ -1,0 +1,6 @@
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.DAL\bin\Debug\QueueFiles.DAL.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.DAL\bin\Debug\QueueFiles.DAL.pdb
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.DAL\obj\Debug\QueueFiles.DAL.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.DAL\obj\Debug\QueueFiles.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.DAL\obj\Debug\QueueFiles.DAL.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.DAL\obj\Debug\QueueFiles.DAL.pdb

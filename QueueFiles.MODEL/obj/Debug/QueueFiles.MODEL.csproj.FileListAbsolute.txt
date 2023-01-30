@@ -1,0 +1,6 @@
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.MODEL\bin\Debug\QueueFiles.MODEL.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.MODEL\bin\Debug\QueueFiles.MODEL.pdb
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.MODEL\obj\Debug\QueueFiles.MODEL.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.MODEL\obj\Debug\QueueFiles.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.MODEL\obj\Debug\QueueFiles.MODEL.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.MODEL\obj\Debug\QueueFiles.MODEL.pdb

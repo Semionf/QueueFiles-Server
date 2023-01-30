@@ -1,0 +1,11 @@
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Entities.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Entities.pdb
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.DAL.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.MODEL.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.DAL.pdb
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.MODEL.pdb
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.csproj.CopyComplete
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.dll
+C:\Users\sfurl\source\repos\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.pdb
